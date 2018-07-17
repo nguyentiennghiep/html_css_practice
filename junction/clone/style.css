@@ -1,0 +1,16 @@
+html , body{
+    padding:0;
+    margin : 0;
+    font-family: 'Merriweather', serif;
+}
+
+body{
+    background : url("http://s3.amazonaws.com/codecademy-content/projects/junction/bg.jpg") no-repeat center center fixed;
+  background-size: cover; 
+}
+
+.container{
+    max-width: 940px;
+    margin : 0 auto ;
+}
+
